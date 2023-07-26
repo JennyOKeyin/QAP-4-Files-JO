@@ -1,5 +1,5 @@
 # QAP-4-Files-JO
-This repo includes 2 Python programs, and corresponding .dat files 
+This repo includes 2 Python programs, corresponding .dat files, and a README.md file. 
 
 Project 1 - main1.py utilizes: FormatValues.py, OSICDef.dat, and Policies.dat (copies attached and uploaded through the assignment portal)
 

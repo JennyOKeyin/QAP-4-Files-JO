@@ -1,5 +1,5 @@
 # QAP-4-Files-JO
-This repo includes 2 Python programs, corresponding .dat files, and a README.md file. 
+This repository includes 2 Python programs, corresponding .dat files, and a README.md file. 
 
 Project 1 - main1.py utilizes: FormatValues.py, OSICDef.dat, and Policies.dat (copies attached and uploaded through the assignment portal)
 
@@ -10,6 +10,6 @@ title may not be visible in a minimized window
 
 Project 2 - Chat sent on July 26, 2023 @ 3:10pm with the URL for this repository 
 
-Project 3- submitted by Malerie Earle on behalf of group 8
+Project 3- Submitted by Malerie Earle on behalf of group 8
 
 Project 4 - Attached and uploaded through the assignment portal 
